@@ -1,0 +1,18 @@
+Hi, what is your name?
+Nice to meet you, Ivan!
+Hi, what is your name?
+Nice to meet you, Anna!
+Hi, what is your name?
+Bye!
+Hi, what is your name?
+Nice to meet you, Natasha!
+Hi, what is your name?
+Nice to meet you, Polina!
+Hi, what is your name?
+Bye!
+Hi, what is your name?
+Nice to meet you, Seriy!
+Hi, what is your name?
+Nice to meet you, Yurik!
+Hi, what is your name?
+Bye!
