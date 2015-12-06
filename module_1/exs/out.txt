@@ -16,3 +16,9 @@ Hi, what is your name?
 Nice to meet you, Yurik!
 Hi, what is your name?
 Bye!
+Hi, what is your name?
+Nice to meet you, Bogdan!
+Hi, what is your name?
+Nice to meet you, Yurik!
+Hi, what is your name?
+Bye!
