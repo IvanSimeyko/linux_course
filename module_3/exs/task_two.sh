@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "$0"
+
 if [[ $var1 == $var2 || $var1 != $var2 ]]
 then
    echo 'True 1'
